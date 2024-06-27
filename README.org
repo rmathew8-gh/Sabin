@@ -1,0 +1,8 @@
+#+setupfile: ~/.org-mode-goodies/setup.org
+
+* Overview
+** Purpose
+This repo is a node starter template with:
+- typescript
+- jest
+- pothos/graphql
